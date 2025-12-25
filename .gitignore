@@ -1,0 +1,15 @@
+# our dataset
+creditcard.csv
+
+# ignore virtual environments
+.venv/
+venv/
+env/
+
+# ignore Python cache files
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# ignore system files
+.DS_Store
